@@ -168,7 +168,7 @@ The model demonstrates strong predictive capability with an ROC-AUC score above 
 
 ## 📬 Contact & Connect
 
-**Author:** [Your Name]
+**Author:** Sai Ravi Charan Neerumalla
 **Role:** Data Analyst | Machine Learning Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
